@@ -24,6 +24,7 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
+      <meta name="google-site-verification" content="WUtDf0L0J1h-vzYpr4eYOrpDQ2qN49SYEKvw3tVD9gQ" />
       <body className={`${geistSans.variable} ${geistMono.variable}`}>
         {children}
       </body>
