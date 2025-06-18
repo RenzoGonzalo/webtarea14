@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://tarea14/api/sitemap
+Sitemap: https://webtarea14.vercel.app/sitemap.xml
