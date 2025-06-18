@@ -1,5 +1,4 @@
 // app/page.jsx
-import Head from 'next/head';
 
 // app/page.jsx
 

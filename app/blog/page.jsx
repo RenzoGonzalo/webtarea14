@@ -1,5 +1,5 @@
 // app/blog/page.jsx
-import Head from 'next/head';
+
 
 // app/blog/page.jsx
 

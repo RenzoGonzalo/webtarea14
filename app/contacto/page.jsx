@@ -1,5 +1,5 @@
 // app/contacto/page.jsx
-import Head from 'next/head';
+
 
 // app/contacto/page.jsx
 
